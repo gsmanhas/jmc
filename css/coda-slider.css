@@ -1,0 +1,75 @@
+#portfoliowrapper {
+    width: 488px;
+    margin: 0 auto;
+}
+#preview {
+	text-align: center;
+	margin-bottom: 20px;
+}
+#slider {
+    width: 488px;
+    margin: 0 auto;
+    position: relative;
+}
+.scroll {
+	width: 488px;
+    height: 160px;
+    overflow: auto;
+    overflow-x: hidden;
+    position: relative;
+    clear: left;
+}
+.scrollContainer .panel {
+    width: 488px;
+    height: 180px;
+}
+.scrollContainer .panel div {
+	width: 102px;
+	margin: 0 10px;
+	float: left;
+}
+.scrollContainer .panel div h6, .scrollContainer .panel div p {
+	color: #977778;
+	font-size: 0.917em;
+	margin: 0;
+}
+.navigationbar {
+	width: 470px;
+	height: 10px;
+	margin: 0 auto;
+	background: url(../images/navigationbar.gif) 0 0 no-repeat;
+}
+ul.navigation {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 180px;
+    height: 10px;
+    background-color: #fff;
+}
+ul.navigation li {
+    display: inline;
+}
+ul.navigation a {
+	display: block;
+	width: 10px;
+	height: 10px;
+    background: url(../images/dot.gif) 0 0 no-repeat;
+    text-indent: -9999px;
+    text-decoration: none;
+    float: left;
+    margin: 0 4px;
+}
+ul.navigation a:hover {
+    background: url(../images/dot-selected.gif) 0 0 no-repeat;
+}
+ul.navigation a.selected {
+	cursor: default;
+    background: url(../images/dot-selected.gif) 0 0 no-repeat;
+}
+ul.navigation a:focus {
+    outline: none;
+}
+.hide {
+    display: none;
+}

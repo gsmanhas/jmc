@@ -1,0 +1,25 @@
+
+#search_customers {
+	display: none;
+}
+
+#search_product {
+	display: none;
+}
+
+.search_product_name {
+		
+}
+
+.search_product_field {
+	
+}
+
+.search_product_toolbar {
+	
+}
+
+.search_result div {
+	text-align: left;
+	margin: 10px;
+}

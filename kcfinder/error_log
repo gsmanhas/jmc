@@ -1,0 +1,36 @@
+[30-Apr-2012 09:44:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 293
+[30-Apr-2012 09:44:58] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 294
+[30-Apr-2012 08:45:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 132
+[30-Apr-2012 08:45:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 133
+[30-Apr-2012 09:45:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 293
+[30-Apr-2012 09:45:26] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 294
+[30-Apr-2012 08:46:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 132
+[30-Apr-2012 08:46:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 133
+[30-Apr-2012 08:47:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 132
+[30-Apr-2012 08:47:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 133
+[30-Apr-2012 09:47:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 293
+[30-Apr-2012 09:47:07] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 294
+[30-Apr-2012 08:48:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 132
+[30-Apr-2012 08:48:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 133
+[30-Apr-2012 09:48:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user ' josiemar_sandbo'@'localhost' (using password: YES) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 293
+[30-Apr-2012 09:48:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 294
+[30-Apr-2012 08:49:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user ' josiemar_sandbo'@'localhost' (using password: YES) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 132
+[30-Apr-2012 08:49:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 133
+[30-Apr-2012 09:49:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user ' josiemar_sandbo'@'localhost' (using password: YES) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 293
+[30-Apr-2012 09:49:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 294
+[30-Apr-2012 08:50:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user ' josiemar_sandbo'@'localhost' (using password: YES) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 132
+[30-Apr-2012 08:50:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 133
+[30-Apr-2012 08:51:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user ' josiemar_sandbo'@'localhost' (using password: YES) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 132
+[30-Apr-2012 08:51:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 133
+[02-May-2012 04:36:15] PHP Warning:  POST Content-Length of 32767832 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[02-May-2012 04:46:20] PHP Warning:  POST Content-Length of 32767825 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[03-May-2012 00:08:54] PHP Warning:  POST Content-Length of 32767828 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[03-May-2012 00:12:01] PHP Warning:  POST Content-Length of 32767825 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-May-2012 10:33:36] PHP Warning:  POST Content-Length of 52317875 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-May-2012 10:48:55] PHP Warning:  POST Content-Length of 15564305 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-May-2012 10:53:25] PHP Warning:  POST Content-Length of 15564305 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-May-2012 12:19:30] PHP Warning:  POST Content-Length of 52317858 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-May-2012 12:31:51] PHP Warning:  POST Content-Length of 52317895 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-May-2012 12:38:51] PHP Warning:  POST Content-Length of 52317956 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-May-2012 12:56:30] PHP Warning:  POST Content-Length of 74917960 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[16-May-2012 10:56:22] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4096 bytes) in /home5/josiemar/public_html/sandbox/kcfinder/core/browser.php on line 1014

@@ -1,0 +1,416 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-natural\-volume\-lip\-gloss\-strength$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-happy" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/best\-sellers\/argan\-oil\-hair\-serum$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/hair\/argan\-hot\-oil\-self\-heating" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-lip\-gloss\-joie\-de\-vivre$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-lip\-gloss\-joie\-de\-vivre" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-lip\-gloss\-confession$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-happy" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/hair\/argan\-oil\-hair\-serum$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/hair\/argan\-oil\-hair\-serum" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-natural\-volume\-lip\-gloss\-brilliance$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-brilliance" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^shop\/lips\/Argan\-Natural\-Volume\-Lip\-Gloss\-Bravery$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-happy" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^shop\/good\-buys\/argan\-natural\-volume\-lip\-gloss\-freedom$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-happy" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-natural\-volume\-lip\-gloss\-soledad$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-happy" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-natural\-volume\-lip\-gloss\-daring$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-daring" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-natural\-volume\-lip\-gloss$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-happy" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-lip\-gloss\-authentic$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-lip\-gloss\-authentic" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^hair$ "http\:\/\/josiemarancosmetics\.com\/shop\/hair" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-pressed\-powder$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face\/argan\-pressed\-powder\-natural" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-day\-night\-eye\-cream$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/skin\/argan\-day\-night\-eye\-cream" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/giftable\-luxury\/argan\-eye\-love\-you\-eye\-shadow\-palette$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/argan\-eye\-love\-you\-palette" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^giftableluxury$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face\/organic\-argan\-oil\-luxury\-size" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/best\-sellers\/argan\-oil\-moisturizing\-stick$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face\/argan\-tinted\-moisturizer\-butter" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^cheeks$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/cheeks\/argan\-cream\-blush\-sunset" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-lip\-gloss$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-natural\-volume\-lip\-gloss\-happy" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/skin\/argan\-bear\-naked\-wipes$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/skin\/argan\-bear\-naked\-wipes" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^skin$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/skin\/organic\-argan\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^arganoil1\.html$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/body\/organic\-argan\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-bronzing\-powder$ "http\:\/\/josiemarancosmetics\.com\/shop\/summer2012\/matchmakerpowderlightmedium" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/earth\-day\-argan\-essentials\-kit$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/purearganoil\/womenforwomen" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^symbolkey\.html$ "http\:\/\/www\.josiemarancosmetics\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/eye\-liner\-black$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/argan\-magic\-marker\-liquid\-eye\-liner" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-color\-stick\-in\-petal\-pink$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/travel\-size\/mini\-argan\-oil\-color\-stick\-in\-petal\-pink" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/holiday\-gift\-set\/jumbo\-argan\-oil\-and\-color\-stick\-petal\-pink$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/purearganoil\/womenforwomen" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/best\-sellers\/Argan_Oil_Daily_Moisturizer_with_SPF_40_plus$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/skin\/argan_oil_daily_moisturizer_with_spf_40_plus" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-bronzing\-oil$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/purearganoil\/argan\-bronzing\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-oil\-lipstick\-rumi\-joon$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-lip\-treatment" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/skin\/argan\-cleansing\-oil$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/skin\/argan\-cleansing\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/Argan_Oil_Daily_Moisturizer_with_SPF_40_plus$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/skin\/argan_oil_daily_moisturizer_with_spf_40_plus" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/skin\/argan\-self\-tanning\-cream$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/body\/argan\-self\-tanning\-cream" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-eye\-shadow\-pewter$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/argan\-eye\-love\-you\-palette" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^gogo\-beauty\-for\-a\-cause$ "http\:\/\/www\.josiemarancosmetics\.com\/argan\-beauty" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/cheeks\/argan\-color\-stick\-in\-petal\-pink$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/travel\-size\/mini\-argan\-oil\-color\-stick\-in\-petal\-pink" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-oil\-lipstick\-luscious$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/cheeks\/argan\-cream\-blush$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/cheeks\/argan\-cream\-blush\-sunset" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-natural\-volume\-lip\-gloss\-optimism$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/color\/argan\-natural\-volume\-lip\-gloss\-optimism" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/giftable\-luxury\/valentine\-gift\-set$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/purearganoil\/womenforwomen" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-day\-night\-eye\-cream$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/skin\/argan\-day\-night\-eye\-cream" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^shop\/eyes\/argan\-concealer\-creme$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face\/argan\-blend\-concealer\-sand" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^shop\/eyes\/argan\-mascara\-jet\-black$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/gogo\-instant\-natural\-volume\-argan\-mascara\-pitch\-black" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/magic\-marker\-lip\-and\-cheek\-stain\-jive$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/cheeks" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-eye\-shadow\-chianti$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/argan\-beautiful\-eyes\-beautiful\-purple" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^faq\.html$ "http\:\/\/www\.josiemarancosmetics\.com\/faqs" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^info\.html$ "http\:\/\/www\.josiemarancosmetics\.com\/customer\-service" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-oil\-moisturizing\-stick$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/travel\-size\/mini\-argan\-oil\-moisturizing\-stick" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-eye\-love\-you\-too\-palette$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/natural\-wonder\-argan\-powder\-palette" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-bear\-naked\-wipes$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/skin\/argan\-bear\-naked\-wipes" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-eye\-shadow$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/argan\-eye\-love\-you\-palette" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/gogo\-instant\-natural\-volume\-argan\-mascara\-pitch\-black$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/gogo\-instant\-natural\-volume\-argan\-mascara\-pitch\-black" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/holiday\-gift\-set\/argan\-color\-stick\-in\-rosey$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-illuminizer$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face\/argan\-illuminizer" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/giftable\-luxury\/earth\-day\-argan\-essentials\-kit$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/purearganoil\/womenforwomen" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-eye\-love\-you\-eye\-shadow\-palette$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/natural\-wonder\-argan\-powder\-palette" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-lip\-treatment$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-lip\-treatment" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-cream\-bronzer\-1$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/purearganoil\/argan\-bronzing\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-oil\-lipstick\-dyani$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/my\-favorite\-argan\-powders$ "http\:\/\/josiemarancosmetics\.com\/shop\/summer2012\/matchmakerpowderlightmedium" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/natural\-wonder\-argan\-powder\-palette$ "http\:\/\/josiemarancosmetics\.com\/shop\/summer2012\/matchmakerpowderlightmedium" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/wildflower\-argan\-powder\-palette$ "http\:\/\/josiemarancosmetics\.com\/shop\/summer2012\/matchmakerpowderlightmedium" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-all\-over\-face\-palette\-in\-sweet$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/ArganTintedMoisturizer$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face\/argan\-tinted\-moisturizer\-creme" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-blend\-concealer$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face\/argan\-blend\-concealer\-sand" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^bio\.html$ "http\:\/\/www\.josiemarancosmetics\.com\/josies\-bio" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-mascara$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/gogo\-instant\-natural\-volume\-argan\-mascara\-pitch\-black" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/argan\-oil\-adventurous$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-lip\-treatment" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^packaging\.html$ "http\:\/\/www\.josiemarancosmetics\.com\/about\-the\-brand" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-mascara\-jet\-black$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/gogo\-instant\-natural\-volume\-argan\-mascara\-pitch\-black" [R=301,L]
+
+RewriteOptions inherit
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-eye\-shadow\-magic$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/natural\-wonder\-argan\-powder\-palette" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-primer\-mist$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/face" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/argan\-eye\-shadow\-cinnamon$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/rem\-pen\-2\-in\-1\-argan\-eye\-shadow\-gel\-liner\-brown\-black" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/eyes\/gogo\-instant\-natural\-volume\-argan\-mascara$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/eyes\/gogo\-instant\-natural\-volume\-argan\-mascara\-pitch\-black" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^newsletter\.html$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/whats_new" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/lips\/magic\-marker\-lip\-cheek\-stain$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/lips\/argan\-lip\-treatment" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/argan\-all\-over\-face\-palette\-in\-lovely$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/body\/organic\-argan\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^product\\\.html\\$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/body\/organic\-argan\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^index\.html$ "http\:\/\/www\.josiemarancosmetics\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^ipsy$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/ipsy" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^purearganoil$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/purearganoil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/hair\/100\-organic\-argan\-oil$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/body\/organic\-argan\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^argan\-oil$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/body\/organic\-argan\-oil" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^josiemarancosmetics\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$
+RewriteRule ^products\/face\/100\-organic\-argan\-oil$ "http\:\/\/www\.josiemarancosmetics\.com\/shop\/body\/organic\-argan\-oil" [R=301,L]
+
+#RewriteCond %{HTTP_HOST} ^josiemaran\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.josiemaran\.com$
+#RewriteRule ^(.*)$ "http\:\/\/josiemarancosmetics\.com\/$1" [R=301,L]
+
+RewriteCond %{HTTP_HOST} !^(www|sandbox)\.josiemarancosmetics\.com [NC]
+RewriteRule ^(.*)$ http://www.josiemarancosmetics.com/$1 [R=301,NC,L]
+
+# <IfModule mod_rewrite.c>
+#     RewriteEngine On
+#     RewriteCond %{REQUEST_FILENAME} !-f
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteRule ^(.*)$ index.php/$1 [L]
+# </IfModule>
+# 
+# <IfModule !mod_rewrite.c>
+#     ErrorDocument 404 index.php
+# </IfModule>
+# 
+# # <IfModule mod_rewrite.c>
+# #     RewriteEngine On
+# # 	
+# # 	#disable directory listing for security reasons
+# # 	Options -Indexes
+# # 	
+# # 	#RewriteBase /codefight_141/
+# # 	
+# # 	#RewriteCond %{REQUEST_FILENAME} !-f
+# #     #RewriteCond %{REQUEST_FILENAME} !-d
+# #     #RewriteRule ^admin$ admin.php?/$1 [L]
+# # 	
+# # 	RewriteCond %{REQUEST_FILENAME} !-f
+# #     RewriteCond %{REQUEST_FILENAME} !-d
+# #     RewriteRule ^(.*)$ index.php?/$1 [L]
+# # 
+# # </IfModule>
+# 
+# php_flag display_errors on
+
+<IfModule mod_rewrite.c>
+	RewriteBase /
+# For security reasons, Option followsymlinks cannot be overridden.
+#	Options +FollowSymLinks
+	Options +SymLinksIfOwnerMatch
+
+	# Hide the application and system directories by redirecting the request to index.php (and throwing a 404 error)
+	RewriteRule ^(application|system|\.svn) index.php/$1 [L]
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+
+	RewriteRule ^(.*)$ index.php/$1 [QSA,L]
+	
+	RewriteCond %{HTTPS} off
+    RewriteCond %{HTTP_HOST} ^www\.josiemarancosmetics\.com$ [NC]
+    RewriteCond %{REQUEST_URI} (css|js|images|signin|register|viewcart|guestcheckout|membercheckout|zipcodes|myshoppingcart|checkout|admin|ajax|kcfinder)
+    RewriteRule ^(.*)$ https://%{SERVER_NAME}%{REQUEST_URI} [R=301]
+
+    RewriteCond %{HTTPS} on
+    RewriteCond %{REQUEST_URI} !(static|css|js|images|signin|register|viewcart|guestcheckout|membercheckout|zipcodes|myshoppingcart|checkout|admin|ajax|kcfinder)
+    RewriteRule ^(.*)$ http://%{SERVER_NAME}%{REQUEST_URI} [R=301]
+	
+		
+</IfModule>
+
+# <IfModule mod_rewrite.c>
+# RewriteEngine on
+# RewriteBase /
+# RewriteCond $1 !^(index\.php|css|flash|images|img|includes|js|language|robots\.txt)
+# RewriteRule ^(.*)$ index.php/$1 [L]
+# </IfModule>
+

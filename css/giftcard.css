@@ -1,0 +1,38 @@
+div.egiftcard {
+    float:left;
+    width:275px;
+
+}
+
+div.card {
+    width:235px;
+    height: 135px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #F5E4E9;
+    padding: 10px;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+div.card:hover {
+    background-color: #ffcccc;
+}
+
+div.card_header {
+    float:left;
+    color: #fff;
+}
+
+div.card_balance {
+    float: right;
+    color: #645151;
+}
+
+div.card_footer {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    color: #fff;
+}

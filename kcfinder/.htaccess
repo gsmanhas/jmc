@@ -1,0 +1,19 @@
+# File modified on Mon Mar 28 07:18:35 2011 by server
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value display_errors on
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value error_reporting 2047
+# File modified on Mon Apr 30 06:35:01 2012 by server
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value upload_max_filesize 200M
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value post_max_size 200M
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value memory_limit 128M
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value max_execution_time 300
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value max_input_time 300
+
+Options -Indexes
+

@@ -1,0 +1,77 @@
+#AuthType Basic
+#AuthName "Restricted Area"
+#AuthUserFile /home5/josiemar/public_html/sandbox/testers/.htpasswd
+#Require user sandbox
+
+#RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^josiemaran\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.josiemaran\.com$
+#RewriteRule ^(.*)$ "http\:\/\/josiemarancosmetics\.com\/$1" [R=301,L]
+
+
+RewriteEngine On
+RewriteCond %{HTTPS} on
+RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI} 
+
+# <IfModule mod_rewrite.c>
+#     RewriteEngine On
+#     RewriteCond %{REQUEST_FILENAME} !-f
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteRule ^(.*)$ index.php/$1 [L]
+# </IfModule>
+# 
+# <IfModule !mod_rewrite.c>
+#     ErrorDocument 404 index.php
+# </IfModule>
+# 
+# # <IfModule mod_rewrite.c>
+# #     RewriteEngine On
+# #     
+# #     #disable directory listing for security reasons
+# #     Options -Indexes
+# #     
+# #     #RewriteBase /codefight_141/
+# #     
+# #     #RewriteCond %{REQUEST_FILENAME} !-f
+# #     #RewriteCond %{REQUEST_FILENAME} !-d
+# #     #RewriteRule ^admin$ admin.php?/$1 [L]
+# #     
+# #     RewriteCond %{REQUEST_FILENAME} !-f
+# #     RewriteCond %{REQUEST_FILENAME} !-d
+# #     RewriteRule ^(.*)$ index.php?/$1 [L]
+# # 
+# # </IfModule>
+# 
+# php_flag display_errors on
+
+<IfModule mod_rewrite.c>
+    RewriteBase /
+# For security reasons, Option followsymlinks cannot be overridden.
+#   Options +FollowSymLinks
+    Options +SymLinksIfOwnerMatch
+
+    # Hide the application and system directories by redirecting the request to index.php (and throwing a 404 error)
+    RewriteRule ^(application|system|\.svn) index.php/$1 [L]
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    RewriteRule ^(.*)$ index.php/$1 [QSA,L]
+    
+#   RewriteCond %{HTTPS} off
+ #   RewriteCond %{REQUEST_URI} (css|js|images|signin|register|viewcart|guestcheckout|membercheckout|myshoppingcart|checkout|admin|ajax|kcfinder)
+  #  RewriteRule ^(.*)$ http://%{SERVER_NAME}%{REQUEST_URI} [R=301]
+
+    RewriteCond %{HTTPS} on
+    RewriteCond %{REQUEST_URI} !(static|css|js|images|signin|register|viewcart|guestcheckout|membercheckout|myshoppingcart|checkout|admin|ajax|kcfinder)
+    RewriteRule ^(.*)$ http://%{SERVER_NAME}%{REQUEST_URI} [R=301]
+    
+        
+</IfModule>
+
+# <IfModule mod_rewrite.c>
+# RewriteEngine on
+# RewriteBase /
+# RewriteCond $1 !^(index\.php|css|flash|images|img|includes|js|language|robots\.txt)
+# RewriteRule ^(.*)$ index.php/$1 [L]
+# </IfModule>

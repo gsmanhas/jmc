@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /application/backend
+Disallow: /ckeditor
+Disallow: /excel
+Disallow: /logs
+Disallow: /sql
+Disallow: /system

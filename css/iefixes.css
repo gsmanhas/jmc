@@ -1,0 +1,76 @@
+#home #banner1,
+#home #banner2,
+#home #banner3,
+#signup,
+#footerlinks,
+#footericons,
+.featuredproduct {
+	display: inline;
+}
+#home #banners {
+	margin-bottom: 15px;
+}
+#home #banner2 {
+	position: absolute;
+	left: 37%;
+}
+#home #banner3 {
+	position: absolute;
+	right: 0;
+	top: 86px;
+}
+#footer {
+	clear: both;
+	padding-top: 15px;
+	position: relative;
+}
+#signup {
+	margin-top: -18px;
+}
+#home #footerlinks {
+	width: 650px;
+	text-align: center;
+	margin: 0 auto;
+}
+#footerlinks {
+	text-align: center;
+}
+#footericons {
+	position: absolute;
+	right: 0;
+	top: 35px;
+}
+legend { 
+	margin-left: -9px;
+}
+#topnav ul li a {
+	position: relative;
+}
+#topnav ul ul {
+	top: 20px;
+}
+#topnav ul ul.sub_shop {
+	left: 0px;
+}
+#topnav ul ul.sub_whatsnew {
+	left: 80px;
+}
+#topnav ul ul.sub_about {
+	left: 602px;
+}
+#topnav ul ul.sub_connect {
+	left: 732px;
+}
+.product .productimagecontainer {
+	height: expression(document.body.clientHeight > 256 ? "256px" : "auto");
+}
+.product .productimagecontainer img {
+	width: expression(document.body.clientWidth > 256 ? "256px" : "auto");
+}
+
+#quickview #total_rating {
+	margin-top: -16px;
+}
+#quickview #total_rating-1 {
+	margin-top: 18px;
+}
